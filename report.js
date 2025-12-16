@@ -5,7 +5,7 @@ const subjects = [
     "NUMERACY", 
     "PHONICS", 
     "CREATIVE ARTS", 
-    "WRITING"
+    
 ];
 
 // Primary School Grading System - BASED ON TOTAL SCORE
@@ -110,7 +110,7 @@ const subjectIcons = {
     "NUMERACY": "fa-calculator",
     "PHONICS": "fa-pray",
     "CREATIVE ARTS": "fa-history",
-    "WRITING": "fa-palette",
+ 
 };
 
 // Initialize the app
@@ -2119,5 +2119,6 @@ function importData(event) {
 // Initialize the app when the page loads
 
 document.addEventListener('DOMContentLoaded', init);
+
 
 
