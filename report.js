@@ -1624,7 +1624,7 @@ function generatePDFReportForWhatsApp(studentId) {
         </div>
 
         <div class="footer-message">
-            Have a wonderful holiday!
+           Merry Christmas to you & Have a wonderful holiday!
         </div>
     </body>
     </html>
@@ -2119,6 +2119,7 @@ function importData(event) {
 // Initialize the app when the page loads
 
 document.addEventListener('DOMContentLoaded', init);
+
 
 
 
